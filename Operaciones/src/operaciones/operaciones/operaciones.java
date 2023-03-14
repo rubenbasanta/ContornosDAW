@@ -18,6 +18,9 @@ public class operaciones {
     return a+b;}
 
     public static void desde_VSC(){
-        System.out.prinln("añadiendo al repositorio desde un IDE");
+        System.out.println("añadiendo al repositorio desde un IDE");
+    }
+    public static void desde_netBeans(){
+        System.out.println("añadiendo al repositorio desde otro IDE");
     }
 }
