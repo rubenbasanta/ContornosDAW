@@ -16,4 +16,8 @@ public class operaciones {
     public static double suma(double a, double b){
     
     return a+b;}
+
+    public static void desde_VSC(){
+        System.out.prinln("añadiendo al repositorio desde un IDE");
+    }
 }
