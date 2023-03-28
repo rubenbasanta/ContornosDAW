@@ -19,6 +19,8 @@ public class Operaciones {
         // TODO code application logic here
         int resultado=suma(3,4);
         System.out.println(resultado);
+        resultado=resta(3,4);
+        System.out.println(resultado);
     }
     
 }
